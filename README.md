@@ -18,5 +18,3 @@
 <a href="https://www.youtube.com/c/@jorge-u8y8u" objetivo="en blanco"><img align="center"
 Lenguajes
 
-y
-herramientas :
