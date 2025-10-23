@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Jorge Bastidas</h1>
 <h3 align="center">Bachiller</h3>
 
-- 🔭 Actualmente estoy trabajando en **En un restaurante**
+- 🔭 Actualmente estoy trabajando en **en un restaurante**
 
-- 🌱 Actualmente estoy aprendiendo **Curos el 3cer Semestre (desarrollo de sotfware)**
+- 🌱 Actualmente estoy aprendiendo **curso el 3cer Semestre (desarrollo de sotfware)**
 
 - 👯 Estoy buscando colaborar en **Me gustaria conseguir un empleo basado en lo que estoy estudiando**
 
